@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 // import App from "./App";
 // import App16 from "./App16";
-import App23 from "./App23";
+import App25 from "./App25";
 // import Login from "./Login";
 
 // const sqrfunction = (n) => {
@@ -26,4 +26,4 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 //   </>
 // );
 
-root.render(<App23 />);
+root.render(<App25 />);
